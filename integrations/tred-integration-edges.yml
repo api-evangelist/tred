@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/tred/integrations
+- https://n8n.io/integrations/tred/
+- https://composio.dev/toolkits/tred
+- https://monid.ai/tools/tred
+checked:
+- https://composio.dev/toolkits/tred
+- https://monid.ai/tools/tred
+- https://n8n.io/integrations/tred/
+- https://zapier.com/apps/tred/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
